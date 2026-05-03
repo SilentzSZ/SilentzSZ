@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=140&section=header&text=Silentz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Developer%20%26%20Community%20Builder&descAlignY=80&descAlign=50&descSize=16" width="100%"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=9B59B6&center=true&vCenter=true&width=580&lines=Discord+Bots+%7C+Minecraft+%7C+Roblox+%7C+Web+Dev;Owner+of+The+Silencers+Community;Building+tools+and+communities+from+scratch" />
